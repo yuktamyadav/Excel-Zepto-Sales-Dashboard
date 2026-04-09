@@ -32,7 +32,7 @@ An open-source dataset simulating Zepto's sales records, provided in Excel forma
 - **Number of Items Sold** – Product distribution
 - **Average Rating** – Customer satisfaction indicator
 
-### 📉 Analytical Views Designed (Visualizations)
+### 📊 Analytical Views Designed (Visualizations)
 
 - **Total Sales by Fat Content (Donut Chart)** – Impact of product nutrition on revenue
 - **Sales by Item Type (Bar Chart)** – Category-wise performance
