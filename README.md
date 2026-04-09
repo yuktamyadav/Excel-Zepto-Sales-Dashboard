@@ -44,4 +44,4 @@ An open-source dataset simulating Zepto's sales records, provided in Excel forma
 
 ## 🖼️ Project Snapshot
 
-![Zepto Sales Dashboard](Zepto-Sales-Dashboard.png)
+![Image Alt](https://github.com/yuktamyadav/Excel-Zepto-Sales-Dashboard/blob/aab00b7267eccceb66d035e096d4c1c57618479d/Zepto%20Sales%20Dashboard.png)
